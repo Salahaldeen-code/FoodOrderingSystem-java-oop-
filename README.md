@@ -4,12 +4,15 @@
 This repository contains a comprehensive online food ordering system designed specifically for the students at Tun Fatimah Residential College. Given the hectic schedules of students, packed with classes and assignments, this system addresses the need for a more efficient and time-saving approach to meal ordering.
 
 **Problem Statement**
+
 Students often miss meals or fail to complete them due to time constraints. Traditional methods of meal acquisition at restaurants or cafeterias are not aligned with the fast-paced student lifestyle, necessitating an alternative that caters to their dynamic schedules.
 
 **Solution**
+
 The Food Ordering System developed for this project allows students to order their meals online in advance. The system benefits the restaurant management too, enabling them to update and manage menu details seamlessly. This solution ensures that students can plan and secure their meals conveniently, fitting meal times into their busy schedules without the need to visit the food outlet physically.
 
 **System Features**
+
 Real-time Menu Updates: Restaurant staff can easily update meal details such as availability, new additions, and pricing.
 Efficient Ordering Process: Students can browse updated meal options, select their meals, and decide when to pick them up according to their convenience.
 Automated Notifications: As soon as changes are made to the menu, students receive immediate updates.
