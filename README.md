@@ -1,4 +1,30 @@
 # FoodOrderingSystem-java-oop-
+**Overall**
+
+This repository contains a comprehensive online food ordering system designed specifically for the students at Tun Fatimah Residential College. Given the hectic schedules of students, packed with classes and assignments, this system addresses the need for a more efficient and time-saving approach to meal ordering.
+
+**Problem Statement**
+Students often miss meals or fail to complete them due to time constraints. Traditional methods of meal acquisition at restaurants or cafeterias are not aligned with the fast-paced student lifestyle, necessitating an alternative that caters to their dynamic schedules.
+
+**Solution**
+The Food Ordering System developed for this project allows students to order their meals online in advance. The system benefits the restaurant management too, enabling them to update and manage menu details seamlessly. This solution ensures that students can plan and secure their meals conveniently, fitting meal times into their busy schedules without the need to visit the food outlet physically.
+
+**System Features**
+Real-time Menu Updates: Restaurant staff can easily update meal details such as availability, new additions, and pricing.
+Efficient Ordering Process: Students can browse updated meal options, select their meals, and decide when to pick them up according to their convenience.
+Automated Notifications: As soon as changes are made to the menu, students receive immediate updates.
+Payment Integration: The system facilitates a straightforward payment process with options to either proceed to checkout or continue adding items to the cart. After payment, it generates a detailed receipt.
+
+**Diagrams and Models**
+
+UML Class Diagram: Outlines the structure of the system showing various classes and their relationships.
+UML Activity Diagram: Represents the flow of activities involved in the ordering process.
+UML Case Diagram: Visualizes the interactions between users (students and restaurant staff) and the system.
+ main 
+
+**result **
+
+
 ![image](https://github.com/Salahaldeen-code/FoodOrderingSystem-java-oop-/assets/143083144/ccc3eda7-9a13-4e1a-a58e-5f390ee5c959)
 ![image](https://github.com/Salahaldeen-code/FoodOrderingSystem-java-oop-/assets/143083144/774b6d47-5f42-4823-9a82-dab664d833b7)
 ![image](https://github.com/Salahaldeen-code/FoodOrderingSystem-java-oop-/assets/143083144/8f617b25-e7b0-465c-aac1-c541b45d024a)
